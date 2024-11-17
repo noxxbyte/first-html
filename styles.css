@@ -2,3 +2,8 @@
 .container1 {
     display: flex;
 }
+table,
+th
+td {
+    border: 1px solid purple;
+}
